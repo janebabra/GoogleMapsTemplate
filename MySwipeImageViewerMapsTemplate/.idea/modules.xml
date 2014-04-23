@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MySwipeImageViewerMap/MySwipeImageViewerMap.iml" filepath="$PROJECT_DIR$/MySwipeImageViewerMap/MySwipeImageViewerMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySwipeImageViewerMapsTemplate.iml" filepath="$PROJECT_DIR$/MySwipeImageViewerMapsTemplate.iml" />
+    </modules>
+  </component>
+</project>
+
